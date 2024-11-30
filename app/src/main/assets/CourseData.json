@@ -1,0 +1,484 @@
+{
+  "courses": [
+    {
+      "name": "Laajis",
+      "description": "A scenic course at the Laajavuori mountains feature challenging holes with elevation change. Keys to score well on this course is to stay in bounds and handle the environment which include uphills, downhills and the wind coming with it.",
+      "holes": [
+        {
+          "hole": 1,
+          "dist": 107,
+          "par": 3
+        },
+        {
+          "hole": 2,
+          "dist": 127,
+          "par": 3
+        },
+        {
+          "hole": 3,
+          "dist": 114,
+          "par": 3
+        },
+        {
+          "hole": 4,
+          "dist": 49,
+          "par": 3
+        },
+        {
+          "hole": 5,
+          "dist": 97,
+          "par": 3
+        },
+        {
+          "hole": 6,
+          "dist": 100,
+          "par": 3
+        },
+        {
+          "hole": 7,
+          "dist": 62,
+          "par": 3
+        },
+        {
+          "hole": 8,
+          "dist": 90,
+          "par": 3
+        },
+        {
+          "hole": 9,
+          "dist": 56,
+          "par": 3
+        },
+        {
+          "hole": 10,
+          "dist": 102,
+          "par": 3
+        },
+        {
+          "hole": 11,
+          "dist": 165,
+          "par": 4
+        },
+        {
+          "hole": 12,
+          "dist": 88,
+          "par": 3
+        },
+        {
+          "hole": 13,
+          "dist": 88,
+          "par": 3
+        },
+        {
+          "hole": 14,
+          "dist": 91,
+          "par": 3
+        },
+        {
+          "hole": 15,
+          "dist": 140,
+          "par": 4
+        },
+        {
+          "hole": 16,
+          "dist": 107,
+          "par": 3
+        },
+        {
+          "hole": 17,
+          "dist": 185,
+          "par": 4
+        },
+        {
+          "hole": 18,
+          "dist": 164,
+          "par": 3
+        }
+      ]
+    },
+    {
+      "name": "Keljonkangas",
+      "description": "This mostly wooded course is a pretty simple yet challenging course for all players. The terrain is a mix of grass, sand and gravel which will cause a challenge with control of discs and the throw itself. Best way to perform on this course is to have an accurate throw since there are some gaps to hit.",
+      "holes": [
+        {
+          "hole": 1,
+          "dist": 90,
+          "par": 3
+        },
+        {
+          "hole": 2,
+          "dist": 158,
+          "par": 4
+        },
+        {
+          "hole": 3,
+          "dist": 95,
+          "par": 3
+        },
+        {
+          "hole": 4,
+          "dist": 80,
+          "par": 3
+        },
+        {
+          "hole": 5,
+          "dist": 92,
+          "par": 3
+        },
+        {
+          "hole": 6,
+          "dist": 94,
+          "par": 3
+        },
+        {
+          "hole": 7,
+          "dist": 152,
+          "par": 4
+        },
+        {
+          "hole": 8,
+          "dist": 98,
+          "par": 3
+        },
+        {
+          "hole": 9,
+          "dist": 138,
+          "par": 4
+        },
+        {
+          "hole": 10,
+          "dist": 90,
+          "par": 3
+        },
+        {
+          "hole": 11,
+          "dist": 116,
+          "par": 4
+        },
+        {
+          "hole": 12,
+          "dist": 90,
+          "par": 3
+        },
+        {
+          "hole": 13,
+          "dist": 154,
+          "par": 4
+        },
+        {
+          "hole": 14,
+          "dist": 138,
+          "par": 4
+        },
+        {
+          "hole": 15,
+          "dist": 177,
+          "par": 4
+        },
+        {
+          "hole": 16,
+          "dist": 91,
+          "par": 3
+        },
+        {
+          "hole": 17,
+          "dist": 251,
+          "par": 5
+        },
+        {
+          "hole": 18,
+          "dist": 85,
+          "par": 3
+        }
+      ]
+    },
+    {
+      "name": "Viherlandia",
+      "description": "Tired of playing in the woods? No problem, this course is wide open and challenges players in a different fashion. The key on this course is to have a somewhat long throw in order to have birdie opportunities. However the back 9 will be easier since the holes are much shorter.",
+      "holes": [
+        {
+          "hole": 1,
+          "dist": 102,
+          "par": 3
+        },
+        {
+          "hole": 2,
+          "dist": 112,
+          "par": 3
+        },
+        {
+          "hole": 3,
+          "dist": 170,
+          "par": 4
+        },
+        {
+          "hole": 4,
+          "dist": 118,
+          "par": 3
+        },
+        {
+          "hole": 5,
+          "dist": 78,
+          "par": 3
+        },
+        {
+          "hole": 6,
+          "dist": 83,
+          "par": 3
+        },
+        {
+          "hole": 7,
+          "dist": 158,
+          "par": 4
+        },
+        {
+          "hole": 8,
+          "dist": 104,
+          "par": 3
+        },
+        {
+          "hole": 9,
+          "dist": 69,
+          "par": 3
+        },
+        {
+          "hole": 10,
+          "dist": 64,
+          "par": 3
+        },
+        {
+          "hole": 11,
+          "dist": 84,
+          "par": 3
+        },
+        {
+          "hole": 12,
+          "dist": 190,
+          "par": 5
+        },
+        {
+          "hole": 13,
+          "dist": 103,
+          "par": 3
+        },
+        {
+          "hole": 14,
+          "dist": 65,
+          "par": 3
+        },
+        {
+          "hole": 15,
+          "dist": 75,
+          "par": 3
+        },
+        {
+          "hole": 16,
+          "dist": 78,
+          "par": 3
+        },
+        {
+          "hole": 17,
+          "dist": 55,
+          "par": 3
+        },
+        {
+          "hole": 18,
+          "dist": 70,
+          "par": 3
+        }
+      ]
+    },
+    {
+      "name": "Vesalan Monttu",
+      "description": "Amongst the hardest courses in Finland this will be an excellent course for more advanced players. The course is located at a sandpit with lots of woods. This course will require long and accurate throws. The unique part about the design of the layout is the versatility of optimal shots.",
+      "holes": [
+        {
+          "hole": 1,
+          "dist": 136,
+          "par": 3
+        },
+        {
+          "hole": 2,
+          "dist": 92,
+          "par": 3
+        },
+        {
+          "hole": 3,
+          "dist": 99,
+          "par": 3
+        },
+        {
+          "hole": 4,
+          "dist": 120,
+          "par": 3
+        },
+        {
+          "hole": 5,
+          "dist": 107,
+          "par": 3
+        },
+        {
+          "hole": 6,
+          "dist": 209,
+          "par": 4
+        },
+        {
+          "hole": 7,
+          "dist": 95,
+          "par": 3
+        },
+        {
+          "hole": 8,
+          "dist": 300,
+          "par": 5
+        },
+        {
+          "hole": 9,
+          "dist": 135,
+          "par": 3
+        },
+        {
+          "hole": 10,
+          "dist": 89,
+          "par": 3
+        },
+        {
+          "hole": 11,
+          "dist": 107,
+          "par": 3
+        },
+        {
+          "hole": 12,
+          "dist": 136,
+          "par": 3
+        },
+        {
+          "hole": 13,
+          "dist": 139,
+          "par": 3
+        },
+        {
+          "hole": 14,
+          "dist": 233,
+          "par": 4
+        },
+        {
+          "hole": 15,
+          "dist": 65,
+          "par": 3
+        },
+        {
+          "hole": 16,
+          "dist": 104,
+          "par": 3
+        },
+        {
+          "hole": 17,
+          "dist": 145,
+          "par": 4
+        },
+        {
+          "hole": 18,
+          "dist": 110,
+          "par": 3
+        }
+      ]
+    },
+    {
+      "name": "Hiiska",
+      "description": "Similarly to Vesalan Monttu this is also located at a sand pit but the challenge on this course is more aimed towards accuracy. There are significantly more mandatories than an average course so passing them is crucial. The forestry is young meaning that you do not always have to go through the fairway however the rough is very punishing",
+      "holes": [
+        {
+          "hole": 1,
+          "dist": 72,
+          "par": 3
+        },
+        {
+          "hole": 2,
+          "dist": 77,
+          "par": 3
+        },
+        {
+          "hole": 3,
+          "dist": 206,
+          "par": 4
+        },
+        {
+          "hole": 4,
+          "dist": 166,
+          "par": 4
+        },
+        {
+          "hole": 5,
+          "dist": 93,
+          "par": 3
+        },
+        {
+          "hole": 6,
+          "dist": 116,
+          "par": 3
+        },
+        {
+          "hole": 7,
+          "dist": 134,
+          "par": 3
+        },
+        {
+          "hole": 8,
+          "dist": 184,
+          "par": 4
+        },
+        {
+          "hole": 9,
+          "dist": 125,
+          "par": 3
+        },
+        {
+          "hole": 10,
+          "dist": 177,
+          "par": 4
+        },
+        {
+          "hole": 11,
+          "dist": 106,
+          "par": 3
+        },
+        {
+          "hole": 12,
+          "dist": 160,
+          "par": 4
+        },
+        {
+          "hole": 13,
+          "dist": 90,
+          "par": 3
+        },
+        {
+          "hole": 14,
+          "dist": 63,
+          "par": 3
+        },
+        {
+          "hole": 15,
+          "dist": 120,
+          "par": 3
+        },
+        {
+          "hole": 16,
+          "dist": 172,
+          "par": 4
+        },
+        {
+          "hole": 17,
+          "dist": 83,
+          "par": 3
+        },
+        {
+          "hole": 18,
+          "dist": 145,
+          "par": 4
+        }
+      ]
+    }
+  ]
+}

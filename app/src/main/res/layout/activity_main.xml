@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="Jyväskylä Disc Golf"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        app:fontFamily="sans-serif-condensed-light"
+        app:textAllCaps="true" />
+
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Start A Round"
+        android:textColor="#000000" />
+
+    <Button
+        android:id="@+id/btnCourses"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnStart"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Courses"
+        android:textColor="#000000" />
+
+    <Button
+        android:id="@+id/btnScores"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnCourses"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Scores"
+        android:textColor="#000000" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="423dp"
+        android:layout_below="@+id/btnScores"
+        android:layout_marginTop="20dp"
+        app:srcCompat="@drawable/disc_golf_player_throwing_a_disc_in_the_basket_vector" />
+
+</RelativeLayout>

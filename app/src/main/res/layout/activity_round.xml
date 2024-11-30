@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Hole Details -->
+    <TextView
+        android:id="@+id/holeDetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Hole Details"
+        android:textSize="18sp" />
+
+    <!-- Input for the score -->
+    <EditText
+        android:id="@+id/scoreInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter score"
+        android:inputType="number"
+        android:autofillHints="" />
+
+    <!-- Navigation Buttons -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="16dp">
+
+        <Button
+            android:id="@+id/prevButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Previous" />
+
+        <Button
+            android:id="@+id/nextButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Next"
+            android:layout_marginStart="16dp" />
+    </LinearLayout>
+
+    <!-- Save Score Button -->
+    <Button
+        android:id="@+id/saveScoreButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save Score"
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center" />
+
+    <!-- Finish Round Button -->
+    <Button
+        android:id="@+id/finishRoundButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:text="Finish Round" />
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnCourses" type="id" />
+    <item name="holeDetails" type="id" />
+    <item name="scoreInput" type="id" />
+    <item name="nextButton" type="id" />
+    <item name="prevButton" type="id" />
+    <item name="saveScoreButton" type="id" />
+    <item name="finishRoundButton" type="id" />
+</resources>
