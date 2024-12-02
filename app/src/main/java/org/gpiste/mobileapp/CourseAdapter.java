@@ -19,7 +19,7 @@ public class CourseAdapter extends RecyclerView.Adapter<CourseAdapter.CourseView
         this.courseList = courseList;
     }
 
-    // Create a new view to Recycler view
+    // Create a new view to Recycler view.
     @NonNull
     @Override
     public CourseViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
