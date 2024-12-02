@@ -9,3 +9,6 @@ Your project should have the following:
 You are free to add anything you think of.
 
 Make your project look more like you. It can be, for example, custom **styles** or other **logic**.
+
+## Project idea: Jyväskylä Disc Golf Application
+The idea behind this project is to create an application to do scores on my local (Jyväskylä) courses for disc golf. The course data is from https://frisbeegolfradat.fi/ and the data is in a .json format.
