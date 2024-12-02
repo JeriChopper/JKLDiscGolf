@@ -19,8 +19,8 @@ Here are the instructions to run the project:
 ### Steps
 
 1. **Clone the repository**:
-    git clone https://github.com/JeriChopper/JKLDiscGolf.git
-    cd JKLDiscGolf
+    - git clone https://github.com/JeriChopper/JKLDiscGolf.git
+    - cd JKLDiscGolf
 
 2. **Open the project in Android Studio**:
     - Launch Android Studio.
